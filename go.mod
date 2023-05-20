@@ -1,0 +1,3 @@
+module TestLINXDATACENTER
+
+go 1.20
